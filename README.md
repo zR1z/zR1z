@@ -20,3 +20,5 @@ Hello, I'm **Snowflake107**.
 **[Click Here](https://snowflakedev.xyz/discord)**
 
 ![Snowflake107](https://github-readme-stats.vercel.app/api?username=snowflake107&show_icons=true&theme=tokyonight&hide=["issues"])
+
+![Snowflake107](https://github-readme-stats.vercel.app/api/top-langs?username=snowflake107&show_icons=true&theme=tokyonight&layout=compact)
