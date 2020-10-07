@@ -1,24 +1,15 @@
-# Snowflake107
-Hello, I'm **Snowflake107**.
+# Tovade
+Hello, I'm **Tovade**.
 
 # My projects
 | Project        | URL           | Description |
 | ------------- |:-------------:|:--------------:|
-| Canvacord      | [https://npmjs.com/package/canvacord](https://npmjs.com/package/canvacord) | Simple & easy to use image manipulation module. |
-| Discord YTDL Core      | [https://npmjs.com/package/discord-ytdl-core](https://npmjs.com/package/discord-ytdl-core)      | YTDL wrapper for discord bots with custom FFmpeg args support |
-| QuickMongo | [https://npmjs.com/package/quickmongo](https://npmjs.com/package/quickmongo)      | Quick mongodb wrapper for beginners. |
-| Soundcloud Scraper | [https://npmjs.com/package/soundcloud-scraper](https://npmjs.com/package/soundcloud-scraper) | Get data from soundcloud without api key. |
-| TikTok Search | [https://npmjs.com/package/tiktok-search](https://npmjs.com/package/tiktok-search) | Simple module to fetch data from TikTok. |
+| mongoDB bot      | [project](https://github.com/tovade/Mongo-DB-bot) | Simple & easy to use image manipulation module. |
 
-# Friends
-- **[@ItzMeRM](https://github.com/ItzMeRM)**
-- **[@Androz2091](https://github.com/Androz2091)**
-- **[@Zyrouge](https://github.com/Zyrouge)**
-- **[@Saif](https://github.com/thanos783)**
 
 # Join my Discord Server
 **[Click Here](https://snowflakedev.xyz/discord)**
 
-![Snowflake107](https://github-readme-stats.vercel.app/api?username=snowflake107&show_icons=true&theme=tokyonight&hide=["issues"])
+![Snowflake107](https://github-readme-stats.vercel.app/api?username=tovade&show_icons=true&theme=tokyonight&hide=["issues"])
 
-![Snowflake107](https://github-readme-stats.vercel.app/api/top-langs?username=snowflake107&show_icons=true&theme=tokyonight&layout=compact)
+![Snowflake107](https://github-readme-stats.vercel.app/api/top-langs?username=tovade&show_icons=true&theme=tokyonight&layout=compact)
