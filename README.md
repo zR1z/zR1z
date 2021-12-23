@@ -17,4 +17,4 @@ Hello, I'm **Tovade**.
 
 ![tovade](https://github-readme-stats.vercel.app/api/top-langs?username=tovade&show_icons=true&theme=tokyonight&layout=compact)
 
-[![tovade's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tovade&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+![tovade's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tovade&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
