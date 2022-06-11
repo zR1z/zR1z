@@ -17,14 +17,7 @@ Hello, I'm **Tovade**.
 <!--START_SECTION:waka-->
 
 ```text
-From: 02 June 2022 - To: 09 June 2022
-
-TypeScript   57 mins         ██████████████████████▓░░   91.33 %
-JavaScript   3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.08 %
-JSON         1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.46 %
-HTML         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
-NSIS         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
-EJS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
