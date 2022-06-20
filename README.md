@@ -17,14 +17,14 @@ Hello, I'm **Tovade**.
 <!--START_SECTION:waka-->
 
 ```text
-From: 11 June 2022 - To: 18 June 2022
+From: 12 June 2022 - To: 19 June 2022
 
-TypeScript       1 hr 52 mins    ████████████████████░░░░░   80.33 %
-GitIgnore file   9 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.81 %
-JavaScript       8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.81 %
-JSON             6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 %
-.env file        1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
-Bash             1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
+TypeScript       1 hr 52 mins    ███████████████████░░░░░░   76.31 %
+JSON             13 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.28 %
+GitIgnore file   9 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.47 %
+JavaScript       8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.52 %
+.env file        1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
+Bash             1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
 ```
 
 <!--END_SECTION:waka-->
