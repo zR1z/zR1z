@@ -13,6 +13,9 @@ Hello, I'm **Tovade**.
 ![Code](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=Code&logoColor=white&color=2bbc8a)
 ![Code](https://img.shields.io/badge/Code-React-informational?style=flat&logo=Code&logoColor=white&color=2bbc8a)
 
+## 👭 You can find me on:
+- [Discord](https://discord.gg/y3eQ8wraD5)
+- [Twitter](https://twitter.com/tovados)
 ## 📰 What I have done this week
 <!--START_SECTION:waka-->
 
