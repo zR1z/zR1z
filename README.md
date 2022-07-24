@@ -20,9 +20,13 @@ Hello, I'm **Tovade**.
 <!--START_SECTION:waka-->
 
 ```text
-From: 14 July 2022 - To: 21 July 2022
+From: 16 July 2022 - To: 23 July 2022
 
-Bash   1 min           █████████████████████████   100.00 %
+TypeScript   43 mins         ██████████████████████░░░   88.44 %
+Bash         2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.39 %
+Text         2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.93 %
+JSON         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
+JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
 ```
 
 <!--END_SECTION:waka-->
