@@ -20,14 +20,14 @@ Hello, I'm **Tovade**.
 <!--START_SECTION:waka-->
 
 ```text
-From: 11 October 2022 - To: 18 October 2022
+From: 12 October 2022 - To: 19 October 2022
 
-TypeScript       5 hrs 42 mins   █████████████████████▒░░░   85.78 %
-CSS              34 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.75 %
-JSON             6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 %
-JavaScript       5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 %
-Text             3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
-GitIgnore file   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
+TypeScript       8 hrs           ██████████████████████▒░░   89.23 %
+CSS              31 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.81 %
+JavaScript       10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 %
+JSON             6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 %
+GitIgnore file   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
+tsconfig         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
 ```
 
 <!--END_SECTION:waka-->
