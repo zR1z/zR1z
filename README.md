@@ -20,13 +20,13 @@ Hello, I'm **Tovade**.
 <!--START_SECTION:waka-->
 
 ```text
-From: 19 November 2022 - To: 26 November 2022
+From: 20 November 2022 - To: 27 November 2022
 
-JavaScript   17 mins         █████████████▒░░░░░░░░░░░   52.92 %
-TypeScript   8 mins          ██████▓░░░░░░░░░░░░░░░░░░   26.67 %
-YAML         2 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 %
-JSON         2 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 %
-EJS          1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   04.91 %
+JavaScript   17 mins         ████████████▒░░░░░░░░░░░░   49.20 %
+TypeScript   8 mins          ██████▒░░░░░░░░░░░░░░░░░░   24.80 %
+EJS          3 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.22 %
+YAML         2 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 %
+JSON         2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.91 %
 ```
 
 <!--END_SECTION:waka-->
