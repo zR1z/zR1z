@@ -20,11 +20,11 @@ Hello, I'm **Tovade**.
 <!--START_SECTION:waka-->
 
 ```text
-From: 04 January 2023 - To: 11 January 2023
+From: 05 January 2023 - To: 12 January 2023
 
-TypeScript   3 hrs 36 mins   ████████████████████░░░░░   80.33 %
-JavaScript   28 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.69 %
-JSON         19 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.13 %
+TypeScript   3 hrs 35 mins   ████████████████████░░░░░   80.28 %
+JavaScript   28 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.72 %
+JSON         19 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.15 %
 Bash         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 %
 Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
 Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
