@@ -20,7 +20,7 @@ Hello, I'm **Tovade**.
 <!--START_SECTION:waka-->
 
 ```text
-From: 30 January 2023 - To: 06 February 2023
+From: 31 January 2023 - To: 07 February 2023
 
 TypeScript   2 hrs 9 mins    ██████████████████████▓░░   90.79 %
 JSON         7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.05 %
