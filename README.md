@@ -1,5 +1,5 @@
 # 👋 zR1
-Hello, I'm **zR1**.
+Hello, I'm *zR1*.
 
 ## 🖥️ Technologies & tools
 
