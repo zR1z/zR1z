@@ -6,11 +6,11 @@ Hello, I'm *zR1*.
 ![OS](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=OS&logoColor=white&color=2bbc8a)
 ![Editor](https://img.shields.io/badge/Editor-VScode-informational?style=flat&logo=Editor&logoColor=white&color=2bbc8a)
 
-![Code](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=Code&logoColor=white&color=2bbc8a)
-![Code](https://img.shields.io/badge/Code-Nodejs-informational?style=flat&logo=Code&logoColor=white&color=2bbc8a)
-![Code](https://img.shields.io/badge/Code-LuaU-blue)
-![Code](https://img.shields.io/badge/Code-html-informational?style=flat&logo=Code&logoColor=white&color=2bbc8a)
-![Code](https://img.shields.io/badge/Code-css-informational?style=flat&logo=Code&logoColor=white&color=2bbc8a)
+![Code](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=Code&logoColor=white&color=2bbc8a)
+![Code](https://img.shields.io/badge/Code-NodeJS-informational?style=flat&logo=Code&logoColor=white&color=2bbc8a)
+![Code](https://img.shields.io/badge/Code-LuaU-informational?style=flat&logo=Code&logoColor=white&color=2bbc8a)
+![Code](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=Code&logoColor=white&color=2bbc8a)
+![Code](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=Code&logoColor=white&color=2bbc8a)
 
 
 ## 👭 You can find me on:
