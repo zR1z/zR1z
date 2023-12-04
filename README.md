@@ -9,7 +9,7 @@ Hello, I'm *zR1*.
 ![Code](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=Code&logoColor=white&color=2bbc8a)
 ![Code](https://img.shields.io/badge/Code-Nodejs-informational?style=flat&logo=Code&logoColor=white&color=2bbc8a)
 ![Code](https://img.shields.io/badge/Code-LuaU-blue)
-{Lua, JS, NodeJS}
+![Code](https://img.shields.io/badge/Code-html)
 
 
 ## 👭 You can find me on:
