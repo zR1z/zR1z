@@ -10,6 +10,7 @@ Hello, I'm *zR1*.
 ![Code](https://img.shields.io/badge/Code-Nodejs-informational?style=flat&logo=Code&logoColor=white&color=2bbc8a)
 ![Code](https://img.shields.io/badge/Code-LuaU-blue)
 ![Code](https://img.shields.io/badge/Code-html-informational?style=flat&logo=Code&logoColor=white&color=2bbc8a)
+![Code](https://img.shields.io/badge/Code-css-informational?style=flat&logo=Code&logoColor=white&color=2bbc8a)
 
 
 ## 👭 You can find me on:
