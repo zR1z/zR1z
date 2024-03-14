@@ -17,3 +17,4 @@ Hello, I'm *zR1*.
 - [Discord]([https://discord.gg/y3eQ8wraD5](https://discord.gg/g7rsz4xGup))
 - [Twitter]([https](https://t.me/zR1zzz))
 
+<img src="https://lanyard.cnrad.dev/api/1143321328405971064" alt="Discord Profile"/>
